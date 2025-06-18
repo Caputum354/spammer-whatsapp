@@ -9,7 +9,7 @@ pip install pyautogui
 2. Configure o número, a mensagem e a quantidade no script.
 3. Execute com:
 ```bash
-python enviador_whatsapp.py
+python SpammerUnico.py
 ```
 Ele abrirá o WhatsApp Web e começará o envio automático após alguns segundos.
 ---
